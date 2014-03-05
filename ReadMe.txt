@@ -1,6 +1,8 @@
 OGC(r) GML schema ReadMe.txt
 ======================================================================
 
+This repository hosts the OGC-approved versions of the Geographic Markup Language (GML) schemas
+
 OGC(r) Geography Markup Language (GML) Encoding Standard
 -----------------------------------------------------------------------
 
