@@ -1,7 +1,7 @@
 OGC(r) GML schema
 ======================================================================
 
-This repository hosts the OGC-approved versions of the Geographic Markup Language (GML) schema
+This repository hosts the OGC-approved versions of the Geographic Markup Language (GML) schema. We are adding this as a public service as the schemas are not hosted on Github.
 
 OGC(r) Geography Markup Language (GML) Encoding Standard
 -----------------------------------------------------------------------
